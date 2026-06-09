@@ -1,0 +1,8 @@
+name: jinsme
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The modular building-block of melodic structure, the three-to-five-note cell from which larger modes are built.
+dependsOn: [youspeak, me, rasame, morphame]
